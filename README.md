@@ -1,2 +1,2 @@
-# Car-game
-Simulation of a simple non-graphic car game
+# Small Projects
+Contains a few basic projects
